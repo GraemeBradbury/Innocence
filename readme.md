@@ -1,4 +1,5 @@
 **What**
+
 Declare a file innocent of the crime of CS1591
 
 Compiler warning CS1591 is a pain when the source is generated files.
